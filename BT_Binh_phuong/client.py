@@ -1,6 +1,6 @@
 import socket
 
-server_ip = '127.0.0.1'
+server_ip = '127.0.0.1'  # Use 127.0.0.1 to connect to the local server
 port = 5000
 
 # Khởi tạo socket và kết nối tới server
